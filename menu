@@ -1,0 +1,19 @@
+<div id="servicemenu jumbotron">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col"><a href="#"><img src="http://corehdesign.com.br/wp-content/uploads/2018/12/serv__limpe.svg" class="svg mx-auto d-block mb-3" height="100px" alt="Limpeza"><span><p class="text-uppercase text-center">Limpeza</p></span></a></div>
+
+                <div class="col"><a href="#"><img src="http://corehdesign.com.br/wp-content/uploads/2018/12/serv__port.svg" class="svg mx-auto d-block mb-3" height="100px" alt="Portaria"><span><p class="text-uppercase text-center ">Portaria</p></span></a></div>
+
+                <div class="col"><a href="#"><img src="http://corehdesign.com.br/wp-content/uploads/2018/12/serv__recep.svg" class="svg mx-auto d-block mb-3" height="100px" alt="Recepção"><span><p class="text-uppercase text-center">Recepção</p></span></a></div>
+
+                <div class="col"><a href="#"><img src="http://corehdesign.com.br/wp-content/uploads/2018/12/serv__jardin.svg" class="svg mx-auto d-block mb-3" height="100px" alt="Jardinagem"><span><p class="text-uppercase text-center">Jardinagem</p></span></a></div>
+
+                <div class="col"><a href="#"><img src="http://corehdesign.com.br/wp-content/uploads/2018/12/serv__contr-1.svg" class="svg mx-auto d-block mb-3 " height="100px" alt="Controlaria de Acesso"><span><p class="text-uppercase text-center">Controladoria de Acesso</p></span></a></div>
+                  
+           </div>
+         </div>
+
+    </div>
